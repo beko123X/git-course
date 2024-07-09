@@ -1,4 +1,4 @@
 # git-course
 simple repo for learning github basics
-# # Repo Notes
+## Repo Notes
  These simple readme note
